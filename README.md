@@ -9,7 +9,7 @@ This repository is designed as a Python project template, with a focus on projec
 Please feel free to Fork or Download this repository for your own usage.
 
 ## Overview
-The project is a silly riddle program with no real usefulness other than forming the structure of the project.  The bulk of the work is done in the [`main_module_function()`]([https://github.com/TrevorJA/example_python_project/blob/main/sample_package/module.py](https://github.com/tarafaRandD/example_python_project/blob/main/sample_package/module.py)) which first prints a riddle on the screen, then iteratively uses the `helper_function()` and `subpackage_function()` to try and "solve" the riddle. Both of these functions simply return a random True/False, and are repeatedly called until the riddle is solved (when `status == True`).
+The project is a silly riddle program with no real usefulness other than forming the structure of the project.  The bulk of the work is done in the [`main_module_function()`](https://github.com/tarafaRandD/example_python_project/blob/main/sample_package/module.py) which first prints a riddle on the screen, then iteratively uses the `helper_function()` and `subpackage_function()` to try and "solve" the riddle. Both of these functions simply return a random True/False, and are repeatedly called until the riddle is solved (when `status == True`).
 
 
 ## Instructions
@@ -44,4 +44,5 @@ Maybe the subpackage_module can help.
 The subpackage_function is being used now.
 The subpackage solved it, the answer is "A River"!
 ```
+
 
