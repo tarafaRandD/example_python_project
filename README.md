@@ -22,7 +22,7 @@ This program only requires the `random` package. If it is not installed already,
 
 ### Usage
 
-The program can then be executed from a command line using the [`main.py`](https://github.com/TrevorJA/example_python_project/blob/main/main.py) executable:
+The program can then be executed from a command line using the [`main.py`](https://github.com/tarafaRandD/example_python_project/blob/main/main.py) executable:
 
 ```
 C:\<your-local-directory>\example_python_project> python main.py
@@ -44,5 +44,6 @@ Maybe the subpackage_module can help.
 The subpackage_function is being used now.
 The subpackage solved it, the answer is "A River"!
 ```
+
 
 
